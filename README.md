@@ -34,3 +34,5 @@ El dataset se obtuvo a través del siguiente enlace: https://www.kaggle.com/murd
 <b>Victim Count (Numeric)</b>: Cantidad de víctimas afectadas.<br>
 <b>Perpetrator Count (Numeric)</b>: Cantidad de responsables. <br>
 <b>Record Source (String)</b>: Origen del registro (FBI o FOIA).<br>
+
+Semana 6 (24/04/17 - 28/04/17). Entrega final del proyecto.
