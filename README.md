@@ -2,6 +2,8 @@
   
 <i>Mariana Valdespino - Iván Vázquez - Carlos Callañaupa</i>
 
+[Importante] Para ejecutar este archivo RMarkDown se debe primero descomprimir el archivo database.zip.
+
 Semana 1 (20/03/2017 - 24/03/27). Adquisición,exploración y descripción del dataset: 
 
 El dataset se obtuvo a través del siguiente enlace: https://www.kaggle.com/murderaccountability/homicide-reports. Luego de la adquisición del mismo, se procedió a estudiar los datos contenidos en él.
